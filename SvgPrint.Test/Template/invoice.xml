@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Template>
+    <Page Format="A4" Orientation="Vertical" Margin="5">
+        <Content>
+            <Image Src="Template/grayscale.svg" Width="50" Height="10" />
+            <Line />
+            <Field DataField="InvoiceId" />
+            <Field DataField="CustomerName" />
+            <Field DataField="CustomerAddress" />
+            <Line />
+            <Barcode type="GS1" DataField="Barcode" />
+            <Table DataField="Lines">
+                <Column DataField="PositionNo" Width="10" />
+                <Column DataField="ArticleId" />
+                <Column DataField="ArticleDescription" Width="80" />
+                <Column DataField="Quantity" />
+                <Column DataField="Price" />
+            </Table>
+        </Content>
+    </Page>
+</Template>

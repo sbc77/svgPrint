@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Template Debug="true">
+    <Page Format="A5" Orientation="Vertical">
+        <Content>
+            <Image Src="Template/grayscale.svg" Width="50" Height="10" />
+            <Line />
+            <Field DataField="CustomerName" />
+            <Field DataField="CustomerStreet" />
+            <Field DataField="CustomerZip" PrintAfter="true" Width="10" />
+            <Field DataField="CustomerCity" />
+            <Line />
+            <Field DataField="SsccNo" />
+            <Field DataField="ArticleId" />
+            <Field DataField="ArticleEan" />
+            <Field DataField="ArticleDescription" />
+            <Field DataField="Quantity" />
+            <Field DataField="OrderNo" />
+            <Line />
+            <Barcode type="GS1" DataField="Barcode1" />
+            <Barcode type="GS1" DataField="Barcode2" />
+        </Content>
+    </Page>
+</Template>

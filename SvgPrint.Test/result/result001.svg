@@ -1,0 +1,154 @@
+<svg xmlns='http://www.w3.org/2000/svg' 
+                    width='148mm' 
+                    height='206mm' 
+                    xmlns:xlink='http://www.w3.org/1999/xlink' 
+                    viewBox='0 0 148 206' >
+                    <style>svg {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fieldLabel {
+}
+
+.fieldData {
+    font-style: italic;
+}
+</style>
+                    <rect width='100%' height='100%' fill='white' />
+                    <image xlink:href='data:image/svg+xml;base64,PHN2ZyB2aWV3cG9ydC1maWxsPSIjZmZmZmZmIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaWQ9InN2ZzYiDQogICAgIHZpZXdCb3g9IjAgMCA1NzUgOTAiIHZlcnNpb249IjEuMSI+DQoNCiAgICA8ZGVmcyBpZD0iZGVmczEwIj48L2RlZnM+DQogICAgPHN0eWxlPg0KICAgICAgICAjdGl0bGUgcGF0aCwgI3RhZ2xpbmUgcGF0aCwgI2xldHRlciBwYXRoIHsNCiAgICAgICAgICAgIGZpbGw6ICMwMDAwMDAgIWltcG9ydGFudDsNCiAgICAgICAgfQ0KDQogICAgICAgICNpY29uICogew0KICAgICAgICAgICAgZmlsbDogIzAwMDAwMCAhaW1wb3J0YW50Ow0KICAgICAgICB9DQogICAgPC9zdHlsZT4NCiAgICA8ZyBpZD0ibG9nby1ncm91cCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIyNSAtMzQwKSI+DQoNCiAgICAgICAgPGcgaWQ9Imljb24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMzExLjg3Mjk2KSB0cmFuc2xhdGUoMjk5LjU5MTU2ODMgMzIuNTcwMjM5OTk5OTk5OTkpIHNjYWxlKDEuMzQpIHRyYW5zbGF0ZSgtMzQ1LjUwMDU2IDUxLjI2NCkiPjxzdmcgeD0iMzQ1LjUwMDU2IiB5PSItNTEuMDAzIiB3aWR0aD0iNTEuNjc4MDAwMDAwMDAwMDA0IiBoZWlnaHQ9IjUxLjY3ODAwMDAwMDAwMDAwNCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBkPSJNNDUuNSwxMy40YzIuNC01LDMuMS05LjQsMC43LTExLjdDNDMuMS0xLjIsMzcuNSwxLDM0LjUsMi40QzMxLjMsMC45LDI3LjgsMCwyNCwwQzEwLjcsMCwwLDEwLjcsMCwyNCAgYzAsMy44LDAuOSw3LjQsMi41LDEwLjZjLTIuNCw1LTMsOS4zLTAuNywxMS43YzEsMSw0LjIsMy4xLDExLjctMC43QzMzLjcsNTUuNSw1NS42LDM0LDQ1LjUsMTMuNHogTTMuNSw0NC40ICBjLTEuMi0xLjEtMS0zLjgsMC41LTcuM2MxLjIsMS45LDIuOCwzLjYsNC41LDVjNC42LTEuNSwxMi4xLTYuMywxOS44LTE0YzguNS04LjUsMTIuNi0xNS44LDE0LTE5LjhjLTEuNS0xLjctMy4yLTMuMi01LTQuNSAgYzEuOS0wLjgsNS42LTEuOSw3LjMtMC41YzMsMi43LTIuNCwxNC40LTE0LjQsMjYuNUMyMSwzOC45LDcuMiw0Ny44LDMuNSw0NC40eiI+PC9wYXRoPjwvc3ZnPjwvZz4NCiAgICAgICAgPGcgaWQ9InRpdGxlIiBzdHlsZT0iZm9udC1zdHlsZTpvYmxpcXVlO2ZvbnQtd2VpZ2h0OjcwMDtmb250LXNpemU6NzJweDtsaW5lLWhlaWdodDoxO2ZvbnQtZmFtaWx5OidNb250c2VycmF0IEFsdGVybmF0ZXMnO2ZvbnQtdmFyaWFudC1saWdhdHVyZXM6bm9uZTt0ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGUiIGFyaWEtbGFiZWw9IllPVVIgTE9HTyI+DQogICAgICAgICAgICA8cGF0aCBpZD0icGF0aDE0IiBzdHlsZT0iZm9udC1zdHlsZTogb2JsaXF1ZTsgZm9udC13ZWlnaHQ6IDcwMDsgZm9udC1zaXplOiA3MnB4OyBsaW5lLWhlaWdodDogMTsgZm9udC1mYW1pbHk6ICZxdW90O01vbnRzZXJyYXQgQWx0ZXJuYXRlcyZxdW90OzsgZm9udC12YXJpYW50LWxpZ2F0dXJlczogbm9uZTsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyIgZD0ibSAzNDQuNjI2NDQsLTUwLjQ3MiAtNy41NiwzNy41ODQgcSAtMS4yMjQsNi4yNjQgLTQuOTY4LDEwLjk0NCAtMy42NzIsNC42OCAtOS4yODgsNy4yIC01LjYxNiwyLjUyIC0xMi4zODQsMi41MiAtNi4xOTIsMCAtMTEuODA4LC0yLjE2IC01LjU0NCwtMi4wODggLTguNzg0LC01LjQ3MiBsIDYuNDgsLTguMzUyIHEgMi4zNzYsMi4yMzIgNS45NzYsMy41MjggMy42NzIsMS4yMjQgNy4xMjgsMS4yMjQgMy42NzIsMCA2Ljc2OCwtMS4zNjggMy4xNjgsLTEuNDQgNS4yNTYsLTMuODg4IDIuMTYsLTIuNDQ4IDIuNzM2LC01LjQ3MiBsIDAuNzkyLC0zLjgxNiBxIC0zLjAyNCwzLjMxMiAtNi44NCw1LjExMiAtMy44MTYsMS44IC04LjIwOCwxLjggLTYuOTg0LDAgLTExLjA4OCwtNC4xMDQgLTQuMDMyLC00LjEwNCAtNC4wMzIsLTEwLjk0NCAwLC0yLjIzMiAwLjQzMiwtNC42OCBsIDMuOTYsLTE5LjY1NiBoIDEzLjEwNCBsIC0zLjgxNiwxOS40NCBxIC0wLjIxNiwxLjE1MiAtMC4yMTYsMi4zMDQgMCwyLjg4IDEuNzI4LDQuNTM2IDEuOCwxLjU4NCA0Ljk2OCwxLjU4NCA0LjQ2NCwwIDguMDY0LC0yLjg4IDMuNjcyLC0yLjg4IDQuODI0LC03LjM0NCBsIDMuNTI4LC0xNy42NCB6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMxMS44NzI5NikgdHJhbnNsYXRlKDIyOC41NDk5Njc0OTk5OTk5OCAzMy42MzE1Mikgc2NhbGUoMS4zNCkgdHJhbnNsYXRlKC0yODkuODM0NDQgNTAuNDcyKSI+PC9wYXRoPg0KICAgICAgICAgICAgPHBhdGggaWQ9InBhdGgxNiIgc3R5bGU9ImZvbnQtc3R5bGU6IG9ibGlxdWU7IGZvbnQtd2VpZ2h0OiA3MDA7IGZvbnQtc2l6ZTogNzJweDsgbGluZS1oZWlnaHQ6IDE7IGZvbnQtZmFtaWx5OiAmcXVvdDtNb250c2VycmF0IEFsdGVybmF0ZXMmcXVvdDs7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vbmU7IHRleHQtYWxpZ246IGNlbnRlcjsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZGlzcGxheTogbm9uZTsiIGQ9Im0gMzc1LjUyNDU2LC01MS4yNjQgcSA3LjIsMCAxMi44MTYsMy4wOTYgNS42ODgsMy4wMjQgOC44NTYsOC40MjQgMy4xNjgsNS40IDMuMTY4LDEyLjE2OCAwLDcuODQ4IC00LjAzMiwxNC40IC00LjAzMiw2LjU1MiAtMTAuOTQ0LDEwLjM2OCAtNi45MTIsMy43NDQgLTE1LjEyLDMuNzQ0IC03LjIsMCAtMTIuODg4LC0zLjA5NiAtNS42MTYsLTMuMDk2IC04Ljc4NCwtOC40OTYgLTMuMDk2LC01LjQ3MiAtMy4wOTYsLTEyLjMxMiAwLC03LjkyIDQuMDMyLC0xNC40IDQuMDMyLC02LjQ4IDEwLjg3MiwtMTAuMTUyIDYuOTEyLC0zLjc0NCAxNS4xMiwtMy43NDQgeiBtIC0wLjkzNiwxMS4xNiBxIC00LjAzMiwwIC03LjYzMiwyLjE2IC0zLjYsMi4xNiAtNS43Niw1LjkwNCAtMi4xNiwzLjc0NCAtMi4xNiw4LjEzNiAwLDMuODE2IDEuNjU2LDYuOTEyIDEuNjU2LDMuMDk2IDQuNTM2LDQuODk2IDIuODgsMS44IDYuMzM2LDEuOCAzLjk2LDAgNy40ODgsLTIuMTYgMy41MjgsLTIuMjMyIDUuNjE2LC01Ljk3NiAyLjA4OCwtMy43NDQgMi4wODgsLTguMjA4IDAsLTMuODE2IC0xLjU4NCwtNi44NCAtMS41ODQsLTMuMDk2IC00LjM5MiwtNC44MjQgLTIuODA4LC0xLjggLTYuMTkyLC0xLjggeiI+PC9wYXRoPg0KICAgICAgICAgICAgPHBhdGggaWQ9InBhdGgxOCIgc3R5bGU9ImZvbnQtc3R5bGU6IG9ibGlxdWU7IGZvbnQtd2VpZ2h0OiA3MDA7IGZvbnQtc2l6ZTogNzJweDsgbGluZS1oZWlnaHQ6IDE7IGZvbnQtZmFtaWx5OiAmcXVvdDtNb250c2VycmF0IEFsdGVybmF0ZXMmcXVvdDs7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vbmU7IHRleHQtYWxpZ246IGNlbnRlcjsgdGV4dC1hbmNob3I6IG1pZGRsZTsiIGQ9Im0gNDE4LjA0Mzk0LDAuNjQ4IHEgLTYuNDgsMCAtMTAuMjI0LC0zLjY3MiAtMy43NDQsLTMuNjcyIC0zLjc0NCwtMTAuMDA4IDAsLTIuNTIgMC41MDQsLTQuODI0IGwgNi40OCwtMzIuNjE2IGggMTMuMzkyIGwgLTUuOTA0LDI5LjQ0OCBxIC0wLjI4OCwxLjE1MiAtMC4yODgsMi41MiAwLDMuMjQgMS45NDQsNS4xODQgMS45NDQsMS44NzIgNS4zMjgsMS44NzIgNC42MDgsMCA4LjEzNiwtMi45NTIgMy42LC0zLjAyNCA0LjY4LC03Ljc3NiBsIDUuNjg4LC0yOC4yOTYgaCAxMy4xNzYgTCA0NDcuMTMxOTQsMCBoIC0xMy4xNzYgbCAxLjUxMiwtNy41NiBxIC0zLjM4NCwzLjk2IC03Ljg0OCw2LjEyIC00LjQ2NCwyLjA4OCAtOS41NzYsMi4wODggeiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAzMTEuODcyOTYpIHRyYW5zbGF0ZSgzNzAuMjYyMzM3NTAwMDAwMDYgMzMuNjMxNTIpIHNjYWxlKDEuMzQpIHRyYW5zbGF0ZSgtNDA0LjA3NTk0IDUwLjQ3MikiPjwvcGF0aD4NCiAgICAgICAgICAgIDxwYXRoIGlkPSJwYXRoMjAiIHN0eWxlPSJmb250LXN0eWxlOiBvYmxpcXVlOyBmb250LXdlaWdodDogNzAwOyBmb250LXNpemU6IDcycHg7IGxpbmUtaGVpZ2h0OiAxOyBmb250LWZhbWlseTogJnF1b3Q7TW9udHNlcnJhdCBBbHRlcm5hdGVzJnF1b3Q7OyBmb250LXZhcmlhbnQtbGlnYXR1cmVzOiBub25lOyB0ZXh0LWFsaWduOiBjZW50ZXI7IHRleHQtYW5jaG9yOiBtaWRkbGU7IiBkPSJtIDUwNy41MTYzMSwtMzYuMjE2IHEgMCw2LjkxMiAtMy4yNCwxMi4wOTYgLTMuMjQsNS4xMTIgLTkuMjg4LDcuNzc2IEwgNTAyLjA0NDMxLDAgaCAtMTQuOTc2IGwgLTQuNTM2LC0xMy45NjggaCAtMC4yMTYgLTkuNTA0IEwgNDcwLjAwNDMxLDAgaCAtMTMuMTc2IGwgMTAuMDgsLTUwLjQ3MiBoIDIyLjY4IHEgOC42NCwwIDEzLjI0OCwzLjc0NCA0LjY4LDMuNzQ0IDQuNjgsMTAuNTEyIHogbSAtMzIuNjE2LDExLjczNiBoIDkuNTA0IHEgNC44MjQsMCA3LjU2LC0yLjUyIDIuNzM2LC0yLjUyIDIuNzM2LC02Ljk4NCAwLC0yLjg4IC0xLjg3MiwtNC4zOTIgLTEuOCwtMS41ODQgLTUuMjU2LC0xLjU4NCBoIC05LjU3NiB6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMxMS44NzI5NikgdHJhbnNsYXRlKDQzNy4zOTk1MTMzIDMzLjYzMTUyKSBzY2FsZSgxLjM0KSB0cmFuc2xhdGUoLTQ1Ni44MjgzMSA1MC40NzIpIj48L3BhdGg+DQogICAgICAgICAgICA8cGF0aCBpZD0icGF0aDIyIiBzdHlsZT0iZm9udC1zdHlsZTogb2JsaXF1ZTsgZm9udC13ZWlnaHQ6IDcwMDsgZm9udC1zaXplOiA3MnB4OyBsaW5lLWhlaWdodDogMTsgZm9udC1mYW1pbHk6ICZxdW90O01vbnRzZXJyYXQgQWx0ZXJuYXRlcyZxdW90OzsgZm9udC12YXJpYW50LWxpZ2F0dXJlczogbm9uZTsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyIgZD0ibSA1NDAuNDM5NDQsLTExLjIzMiBoIDIxLjM4NCBMIDU1OS41OTE0NCwwIGggLTM0LjU2IGwgMTAuMDgsLTUwLjQ3MiBoIDEzLjE3NiB6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMxMS44NzI5NikgdHJhbnNsYXRlKDUyNS4yNDA3MDc1IDMzLjYzMTUyKSBzY2FsZSgxLjM0KSB0cmFuc2xhdGUoLTUyNS4wMzE0NCA1MC40NzIpIj48L3BhdGg+DQogICAgICAgICAgICA8cGF0aCBpZD0icGF0aDI0IiBzdHlsZT0iZm9udC1zdHlsZTogb2JsaXF1ZTsgZm9udC13ZWlnaHQ6IDcwMDsgZm9udC1zaXplOiA3MnB4OyBsaW5lLWhlaWdodDogMTsgZm9udC1mYW1pbHk6ICZxdW90O01vbnRzZXJyYXQgQWx0ZXJuYXRlcyZxdW90OzsgZm9udC12YXJpYW50LWxpZ2F0dXJlczogbm9uZTsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyIgZD0ibSA1OTcuNTcxNDQsLTUxLjI2NCBxIDcuMiwwIDEyLjgxNiwzLjA5NiA1LjY4OCwzLjAyNCA4Ljg1Niw4LjQyNCAzLjE2OCw1LjQgMy4xNjgsMTIuMTY4IDAsNy44NDggLTQuMDMyLDE0LjQgLTQuMDMyLDYuNTUyIC0xMC45NDQsMTAuMzY4IC02LjkxMiwzLjc0NCAtMTUuMTIsMy43NDQgLTcuMiwwIC0xMi44ODgsLTMuMDk2IC01LjYxNiwtMy4wOTYgLTguNzg0LC04LjQ5NiAtMy4wOTYsLTUuNDcyIC0zLjA5NiwtMTIuMzEyIDAsLTcuOTIgNC4wMzIsLTE0LjQgNC4wMzIsLTYuNDggMTAuODcyLC0xMC4xNTIgNi45MTIsLTMuNzQ0IDE1LjEyLC0zLjc0NCB6IG0gLTAuOTM2LDExLjE2IHEgLTQuMDMyLDAgLTcuNjMyLDIuMTYgLTMuNiwyLjE2IC01Ljc2LDUuOTA0IC0yLjE2LDMuNzQ0IC0yLjE2LDguMTM2IDAsMy44MTYgMS42NTYsNi45MTIgMS42NTYsMy4wOTYgNC41MzYsNC44OTYgMi44OCwxLjggNi4zMzYsMS44IDMuOTYsMCA3LjQ4OCwtMi4xNiAzLjUyOCwtMi4yMzIgNS42MTYsLTUuOTc2IDIuMDg4LC0zLjc0NCAyLjA4OCwtOC4yMDggMCwtMy44MTYgLTEuNTg0LC02Ljg0IC0xLjU4NCwtMy4wOTYgLTQuMzkyLC00LjgyNCAtMi44MDgsLTEuOCAtNi4xOTIsLTEuOCB6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMxMS44NzI5NikgdHJhbnNsYXRlKDU3OC42NjExNDc1MDAwMDAxIDMyLjU3MDIzOTk5OTk5OTk5KSBzY2FsZSgxLjM0KSB0cmFuc2xhdGUoLTU2Ny41NDc0NCA1MS4yNjQpIj48L3BhdGg+DQogICAgICAgICAgICA8cGF0aCBpZD0icGF0aDI2IiBzdHlsZT0iZm9udC1zdHlsZTogb2JsaXF1ZTsgZm9udC13ZWlnaHQ6IDcwMDsgZm9udC1zaXplOiA3MnB4OyBsaW5lLWhlaWdodDogMTsgZm9udC1mYW1pbHk6ICZxdW90O01vbnRzZXJyYXQgQWx0ZXJuYXRlcyZxdW90OzsgZm9udC12YXJpYW50LWxpZ2F0dXJlczogbm9uZTsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyIgZD0ibSA2NjMuNDMyMzEsLTI2LjIwOCBoIDExLjM3NiBMIDY2OS42MjQzMSwwIGggLTkuNjQ4IGwgMC41NzYsLTMuMDI0IHEgLTYuMDQ4LDMuOTYgLTEyLjE2OCwzLjk2IC02LjY5NiwwIC0xMi4wMjQsLTMuMDk2IC01LjI1NiwtMy4wOTYgLTguMjA4LC04LjQ5NiAtMi44OCwtNS40IC0yLjg4LC0xMi4xNjggMCwtNy45MiA0LjAzMiwtMTQuNCA0LjEwNCwtNi41NTIgMTEuMDg4LC0xMC4yOTYgNi45ODQsLTMuNzQ0IDE1LjI2NCwtMy43NDQgNS42ODgsMCAxMS4xNiwyLjA4OCA1LjQ3MiwyLjAxNiA5LjA3Miw1LjQ3MiBsIC04LjQyNCw5LjIxNiBxIC0yLjM3NiwtMi41OTIgLTUuODMyLC00LjEwNCAtMy4zODQsLTEuNTEyIC02LjkxMiwtMS41MTIgLTQuMjQ4LDAgLTcuOTIsMi4xNiAtMy42NzIsMi4xNiAtNS44MzIsNS45MDQgLTIuMTYsMy43NDQgLTIuMTYsOC4yOCAwLDMuODE2IDEuNTEyLDYuOTEyIDEuNTg0LDMuMDI0IDQuMzIsNC44MjQgMi44MDgsMS43MjggNi4zMzYsMS43MjggMi42NjQsMCA1LjQsLTEuMTUyIDIuNzM2LC0xLjE1MiA0LjgyNCwtMy4xNjggeiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAzMTEuODcyOTYpIHRyYW5zbGF0ZSg2NTIuNDYxNDczMjk5OTk5OSAzMi41NzAyMzk5OTk5OTk5OSkgc2NhbGUoMS4zNCkgdHJhbnNsYXRlKC02MjUuMjcyMzEgNTEuMjY0KSI+PC9wYXRoPg0KICAgICAgICAgICAgPHBhdGggaWQ9InBhdGgyOCIgc3R5bGU9ImZvbnQtc3R5bGU6IG9ibGlxdWU7IGZvbnQtd2VpZ2h0OiA3MDA7IGZvbnQtc2l6ZTogNzJweDsgbGluZS1oZWlnaHQ6IDE7IGZvbnQtZmFtaWx5OiAmcXVvdDtNb250c2VycmF0IEFsdGVybmF0ZXMmcXVvdDs7IGZvbnQtdmFyaWFudC1saWdhdHVyZXM6IG5vbmU7IHRleHQtYWxpZ246IGNlbnRlcjsgdGV4dC1hbmNob3I6IG1pZGRsZTsiIGQ9Im0gNzA5Ljc5MDE5LC01MS4yNjQgcSA3LjIsMCAxMi44MTYsMy4wOTYgNS42ODgsMy4wMjQgOC44NTYsOC40MjQgMy4xNjgsNS40IDMuMTY4LDEyLjE2OCAwLDcuODQ4IC00LjAzMiwxNC40IC00LjAzMiw2LjU1MiAtMTAuOTQ0LDEwLjM2OCAtNi45MTIsMy43NDQgLTE1LjEyLDMuNzQ0IC03LjIsMCAtMTIuODg4LC0zLjA5NiAtNS42MTYsLTMuMDk2IC04Ljc4NCwtOC40OTYgLTMuMDk2LC01LjQ3MiAtMy4wOTYsLTEyLjMxMiAwLC03LjkyIDQuMDMyLC0xNC40IDQuMDMyLC02LjQ4IDEwLjg3MiwtMTAuMTUyIDYuOTEyLC0zLjc0NCAxNS4xMiwtMy43NDQgeiBtIC0wLjkzNiwxMS4xNiBxIC00LjAzMiwwIC03LjYzMiwyLjE2IC0zLjYsMi4xNiAtNS43Niw1LjkwNCAtMi4xNiwzLjc0NCAtMi4xNiw4LjEzNiAwLDMuODE2IDEuNjU2LDYuOTEyIDEuNjU2LDMuMDk2IDQuNTM2LDQuODk2IDIuODgsMS44IDYuMzM2LDEuOCAzLjk2LDAgNy40ODgsLTIuMTYgMy41MjgsLTIuMjMyIDUuNjE2LC01Ljk3NiAyLjA4OCwtMy43NDQgMi4wODgsLTguMjA4IDAsLTMuODE2IC0xLjU4NCwtNi44NCAtMS41ODQsLTMuMDk2IC00LjM5MiwtNC44MjQgLTIuODA4LC0xLjggLTYuMTkyLC0xLjggeiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAzMTEuODcyOTYpIHRyYW5zbGF0ZSg3MjEuOTMyMjcyNSAzMi41NzAyMzk5OTk5OTk5OSkgc2NhbGUoMS4zNCkgdHJhbnNsYXRlKC02NzkuNzY2MTkgNTEuMjY0KSI+PC9wYXRoPg0KICAgICAgICA8L2c+DQogICAgICAgIDxnIGlkPSJ0YWdsaW5lIiBzdHlsZT0iZm9udC1zdHlsZTpvYmxpcXVlO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXNpemU6MzJweDtsaW5lLWhlaWdodDoxO2ZvbnQtZmFtaWx5OkxvcmE7Zm9udC12YXJpYW50LWxpZ2F0dXJlczpub25lO3RleHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRsZSI+PC9nPg0KICAgIDwvZz4NCjwvc3ZnPg==' height='10' width='50' x='0' y='0' />
+<rect x='0' y='11' width='148' height='.25' fill='black' />
+<text class='fieldData' x='0' y='15.5' font-size='4'>Migros</text>
+<text class='fieldData' x='0' y='21.0' font-size='4'>Industriestrasse 1</text>
+<text class='fieldData' x='0' y='26.5' font-size='4'>3000</text>
+<text class='fieldData' x='10' y='26.5' font-size='4'>Bern</text>
+<rect x='0' y='29.5' width='148' height='.25' fill='black' />
+<text class='fieldLabel' x='0.5' y='34.0' font-size='4'>SSCC-Nr:</text>
+<text class='fieldData' x='50' y='34.0' font-size='4'>376113650002691585</text>
+<text class='fieldData' x='0' y='39.5' font-size='4'>0443445.02</text>
+<text class='fieldLabel' x='0.5' y='45.0' font-size='4'>Inhalt:</text>
+<text class='fieldData' x='50' y='45.0' font-size='4'>07611365331192</text>
+<text class='fieldData' x='0' y='50.5' font-size='4'>Some amazing article XL #2, A4, 4-Ring Ø 45 mm, schwarz</text>
+<text class='fieldLabel' x='0.5' y='56.0' font-size='4'>Menge:</text>
+<text class='fieldData' x='50' y='56.0' font-size='4'>12</text>
+<text class='fieldLabel' x='0.5' y='61.5' font-size='4'>Bestell-Nr::</text>
+<text class='fieldData' x='50' y='61.5' font-size='4'>20216916</text>
+<rect x='0' y='64.5' width='148' height='.25' fill='black' />
+<g transform='translate(0 65.5) scale(0.46 0.46)'>
+                <rect fill='black' x='0' y='0' width='2' height='68.25' />
+<rect fill='black' x='3' y='0' width='1' height='68.25' />
+<rect fill='black' x='6' y='0' width='3' height='68.25' />
+<rect fill='black' x='11' y='0' width='4' height='68.25' />
+<rect fill='black' x='16' y='0' width='1' height='68.25' />
+<rect fill='black' x='18' y='0' width='3' height='68.25' />
+<rect fill='black' x='22' y='0' width='2' height='68.25' />
+<rect fill='black' x='26' y='0' width='2' height='68.25' />
+<rect fill='black' x='30' y='0' width='2' height='68.25' />
+<rect fill='black' x='33' y='0' width='1' height='68.25' />
+<rect fill='black' x='36' y='0' width='2' height='68.25' />
+<rect fill='black' x='41' y='0' width='1' height='68.25' />
+<rect fill='black' x='44' y='0' width='2' height='68.25' />
+<rect fill='black' x='48' y='0' width='1' height='68.25' />
+<rect fill='black' x='53' y='0' width='1' height='68.25' />
+<rect fill='black' x='55' y='0' width='1' height='68.25' />
+<rect fill='black' x='58' y='0' width='2' height='68.25' />
+<rect fill='black' x='61' y='0' width='3' height='68.25' />
+<rect fill='black' x='66' y='0' width='1' height='68.25' />
+<rect fill='black' x='69' y='0' width='1' height='68.25' />
+<rect fill='black' x='71' y='0' width='2' height='68.25' />
+<rect fill='black' x='77' y='0' width='1' height='68.25' />
+<rect fill='black' x='79' y='0' width='1' height='68.25' />
+<rect fill='black' x='83' y='0' width='2' height='68.25' />
+<rect fill='black' x='88' y='0' width='2' height='68.25' />
+<rect fill='black' x='93' y='0' width='1' height='68.25' />
+<rect fill='black' x='96' y='0' width='1' height='68.25' />
+<rect fill='black' x='99' y='0' width='1' height='68.25' />
+<rect fill='black' x='101' y='0' width='1' height='68.25' />
+<rect fill='black' x='103' y='0' width='4' height='68.25' />
+<rect fill='black' x='110' y='0' width='4' height='68.25' />
+<rect fill='black' x='115' y='0' width='1' height='68.25' />
+<rect fill='black' x='117' y='0' width='3' height='68.25' />
+<rect fill='black' x='121' y='0' width='1' height='68.25' />
+<rect fill='black' x='125' y='0' width='2' height='68.25' />
+<rect fill='black' x='128' y='0' width='1' height='68.25' />
+<rect fill='black' x='132' y='0' width='1' height='68.25' />
+<rect fill='black' x='134' y='0' width='2' height='68.25' />
+<rect fill='black' x='138' y='0' width='3' height='68.25' />
+<rect fill='black' x='143' y='0' width='4' height='68.25' />
+<rect fill='black' x='148' y='0' width='1' height='68.25' />
+<rect fill='black' x='150' y='0' width='3' height='68.25' />
+<rect fill='black' x='154' y='0' width='2' height='68.25' />
+<rect fill='black' x='159' y='0' width='1' height='68.25' />
+<rect fill='black' x='161' y='0' width='1' height='68.25' />
+<rect fill='black' x='165' y='0' width='2' height='68.25' />
+<rect fill='black' x='169' y='0' width='2' height='68.25' />
+<rect fill='black' x='173' y='0' width='2' height='68.25' />
+<rect fill='black' x='176' y='0' width='2' height='68.25' />
+<rect fill='black' x='180' y='0' width='2' height='68.25' />
+<rect fill='black' x='184' y='0' width='2' height='68.25' />
+<rect fill='black' x='187' y='0' width='1' height='68.25' />
+<rect fill='black' x='190' y='0' width='3' height='68.25' />
+<rect fill='black' x='194' y='0' width='2' height='68.25' />
+<rect fill='black' x='198' y='0' width='4' height='68.25' />
+<rect fill='black' x='203' y='0' width='2' height='68.25' />
+<rect fill='black' x='206' y='0' width='2' height='68.25' />
+<rect fill='black' x='209' y='0' width='3' height='68.25' />
+<rect fill='black' x='213' y='0' width='1' height='68.25' />
+<rect fill='black' x='215' y='0' width='4' height='68.25' />
+<rect fill='black' x='220' y='0' width='2' height='68.25' />
+<rect fill='black' x='224' y='0' width='3' height='68.25' />
+<rect fill='black' x='228' y='0' width='1' height='68.25' />
+<rect fill='black' x='231' y='0' width='1' height='68.25' />
+<rect fill='black' x='234' y='0' width='1' height='68.25' />
+<rect fill='black' x='236' y='0' width='4' height='68.25' />
+<rect fill='black' x='242' y='0' width='2' height='68.25' />
+<rect fill='black' x='247' y='0' width='3' height='68.25' />
+<rect fill='black' x='251' y='0' width='1' height='68.25' />
+<rect fill='black' x='253' y='0' width='2' height='68.25' />
+
+                </g><text x='0' y='100.5' font-size='4'>(02)07611365331192(37)12(400)20216916</text><g transform='translate(0 104.5) scale(0.46 0.46)'>
+                <rect fill='black' x='0' y='0' width='2' height='68.25' />
+<rect fill='black' x='3' y='0' width='1' height='68.25' />
+<rect fill='black' x='6' y='0' width='3' height='68.25' />
+<rect fill='black' x='11' y='0' width='4' height='68.25' />
+<rect fill='black' x='16' y='0' width='1' height='68.25' />
+<rect fill='black' x='18' y='0' width='3' height='68.25' />
+<rect fill='black' x='22' y='0' width='2' height='68.25' />
+<rect fill='black' x='25' y='0' width='2' height='68.25' />
+<rect fill='black' x='29' y='0' width='2' height='68.25' />
+<rect fill='black' x='33' y='0' width='1' height='68.25' />
+<rect fill='black' x='37' y='0' width='2' height='68.25' />
+<rect fill='black' x='40' y='0' width='1' height='68.25' />
+<rect fill='black' x='44' y='0' width='2' height='68.25' />
+<rect fill='black' x='48' y='0' width='1' height='68.25' />
+<rect fill='black' x='53' y='0' width='1' height='68.25' />
+<rect fill='black' x='55' y='0' width='1' height='68.25' />
+<rect fill='black' x='58' y='0' width='2' height='68.25' />
+<rect fill='black' x='61' y='0' width='3' height='68.25' />
+<rect fill='black' x='66' y='0' width='1' height='68.25' />
+<rect fill='black' x='69' y='0' width='1' height='68.25' />
+<rect fill='black' x='71' y='0' width='2' height='68.25' />
+<rect fill='black' x='77' y='0' width='2' height='68.25' />
+<rect fill='black' x='80' y='0' width='2' height='68.25' />
+<rect fill='black' x='84' y='0' width='2' height='68.25' />
+<rect fill='black' x='88' y='0' width='2' height='68.25' />
+<rect fill='black' x='92' y='0' width='2' height='68.25' />
+<rect fill='black' x='96' y='0' width='2' height='68.25' />
+<rect fill='black' x='99' y='0' width='1' height='68.25' />
+<rect fill='black' x='101' y='0' width='2' height='68.25' />
+<rect fill='black' x='105' y='0' width='1' height='68.25' />
+<rect fill='black' x='110' y='0' width='1' height='68.25' />
+<rect fill='black' x='112' y='0' width='3' height='68.25' />
+<rect fill='black' x='117' y='0' width='2' height='68.25' />
+<rect fill='black' x='121' y='0' width='1' height='68.25' />
+<rect fill='black' x='124' y='0' width='4' height='68.25' />
+<rect fill='black' x='130' y='0' width='1' height='68.25' />
+<rect fill='black' x='132' y='0' width='2' height='68.25' />
+<rect fill='black' x='136' y='0' width='1' height='68.25' />
+<rect fill='black' x='141' y='0' width='1' height='68.25' />
+<rect fill='black' x='143' y='0' width='2' height='68.25' />
+<rect fill='black' x='148' y='0' width='3' height='68.25' />
+<rect fill='black' x='152' y='0' width='1' height='68.25' />
+<rect fill='black' x='154' y='0' width='2' height='68.25' />
+
+                </g><text x='0' y='139.5' font-size='4'>(00)376113650002691585</text>
+                    </svg>

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgPrint.Test", "SvgPrint.Test\SvgPrint.Test.csproj", "{AFDD1B3E-99E9-48D3-AC05-7FE982413F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgPrint", "SvgPrint\SvgPrint.csproj", "{CD9201B1-81BE-4F4D-B0A8-50C908C4AB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDD1B3E-99E9-48D3-AC05-7FE982413F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDD1B3E-99E9-48D3-AC05-7FE982413F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDD1B3E-99E9-48D3-AC05-7FE982413F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDD1B3E-99E9-48D3-AC05-7FE982413F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9201B1-81BE-4F4D-B0A8-50C908C4AB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9201B1-81BE-4F4D-B0A8-50C908C4AB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9201B1-81BE-4F4D-B0A8-50C908C4AB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9201B1-81BE-4F4D-B0A8-50C908C4AB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
