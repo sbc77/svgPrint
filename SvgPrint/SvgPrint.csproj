@@ -2,6 +2,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <PackOnBuild>true</PackOnBuild>
+        <PackageId>svgPrint</PackageId>
+        <Authors>Sebastian Bucko</Authors>
+        <Owners>Sebastian Bucko</Owners>
+        <PackageProjectUrl>https://github.com/sbc77/svgPrint</PackageProjectUrl>
+        <Title>svgPrint</Title>
+        <Description>SVG printout templating engine</Description>
     </PropertyGroup>
     <ItemGroup>
         <Folder Include="Elements\" />
@@ -10,5 +17,6 @@
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+        <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
     </ItemGroup>
 </Project>
