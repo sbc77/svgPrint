@@ -9,6 +9,7 @@
         <PackageProjectUrl>https://github.com/sbc77/svgPrint</PackageProjectUrl>
         <Title>svgPrint</Title>
         <Description>SVG printout templating engine</Description>
+        <PackageLicenseUrl>https://github.com/sbc77/svgPrint/blob/master/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
     <ItemGroup>
         <Folder Include="Elements\" />
