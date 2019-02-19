@@ -12,6 +12,9 @@ namespace SvgPrint.Elements
         public string Src { get; set; }
 
         [XmlAttribute]
+        public string Link { get; set; }
+
+        [XmlAttribute]
         public decimal Width { get; set; }
 
         [XmlAttribute]
@@ -19,16 +22,26 @@ namespace SvgPrint.Elements
 
         public RenderingResult Render(PageInfo pageInfo)
         {
-            var imageData = File.ReadAllText(Src);
-            var ext = Path.GetExtension(Src).ToLower().Replace(".", string.Empty);
-
-            if (ext == "svg")
+            string imageLink;
+            if (Src != null)
             {
-                ext = "svg+xml";
+                var imageData = File.ReadAllText(Src);
+                var ext = Path.GetExtension(Src).ToLower().Replace(".", string.Empty);
+
+                if (ext == "svg")
+                {
+                    ext = "svg+xml";
+                }
+
+                var imageData64 = Base64Encode(imageData);
+                imageLink = $"data:image/{ext};base64,{imageData64}";
+            }
+            else
+            {
+                imageLink = this.Link;
             }
 
-            var imageData64 = Base64Encode(imageData);
-            var content = $"<image xlink:href='data:image/{ext};base64,{imageData64}' " +
+            var content = $"<image xlink:href='{imageLink}' " +
                 (this.Height == 0 ? string.Empty : $"height='{this.Height}' ") +
                 (this.Width == 0 ? string.Empty : $"width='{this.Width}' ") +
                 $"x='{pageInfo.CurrentX}' y='{pageInfo.CurrentY}' />" + Environment.NewLine;

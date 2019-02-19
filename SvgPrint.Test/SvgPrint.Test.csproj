@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -7,8 +7,12 @@
     <ItemGroup>
         <Folder Include="Template\" />
         <Folder Include="Model\" />
+        <Folder Include="result\" />
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\SvgPrint\SvgPrint.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="result\result001.svg" />
     </ItemGroup>
 </Project>
