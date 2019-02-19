@@ -10,6 +10,8 @@
         <Title>svgPrint</Title>
         <Description>SVG printout templating engine</Description>
         <PackageLicenseUrl>https://github.com/sbc77/svgPrint/blob/master/LICENSE</PackageLicenseUrl>
+        <ReleaseVersion>1.0.1</ReleaseVersion>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
         <Folder Include="Elements\" />
